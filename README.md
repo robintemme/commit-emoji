@@ -19,3 +19,4 @@ inspired by the [Atom CONTRIBUTION.md](https://github.com/atom/atom/blob/58ba84d
 * :arrow_up: `:arrow_up:` when upgrading dependencies
 * :arrow_down: `:arrow_down:` when downgrading dependencies
 * :shirt: `:shirt:` when removing linter warnings
+* :notebook: `:notebook:` when dealing with database code
