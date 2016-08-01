@@ -22,3 +22,5 @@ inspired by the [Atom CONTRIBUTION.md](https://github.com/atom/atom/blob/58ba84d
 * :notebook: `:notebook:` when dealing with database code
 * :rocket: `:rocket:` when bootstrapping the project (e.g. adding a lot of code)
 * :cop: `:cop:` when dealing with licensing
+* :sparkles: `:sparkles` when adding new functionality
+* :ship: `:ship:` when dealing with deployment
