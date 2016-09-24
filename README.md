@@ -1,6 +1,6 @@
 # commit-emoji
 
-This is a list of emojis to consider prepending to your git commit message, 
+This is a list of emojis to consider prepending to your git commit message,
 inspired by the [Atom CONTRIBUTION.md](https://github.com/atom/atom/blob/58ba84d9fa00a332ba9971ede827b7e59f2aaf86/CONTRIBUTING.md#git-commit-messages).
 
 * :tada: `:tada:` when creating the initial commit
@@ -16,6 +16,7 @@ inspired by the [Atom CONTRIBUTION.md](https://github.com/atom/atom/blob/58ba84d
 * :green_heart: `:green_heart:` when fixing the CI build
 * :white_check_mark: `:white_check_mark:` when adding tests
 * :lock: `:lock:` when dealing with security
+* :heavy_plus_sign: `:heavy_plus_sign:` when adding dependencies
 * :arrow_up: `:arrow_up:` when upgrading dependencies
 * :arrow_down: `:arrow_down:` when downgrading dependencies
 * :shirt: `:shirt:` when removing linter warnings
